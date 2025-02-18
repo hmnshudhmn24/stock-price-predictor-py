@@ -34,5 +34,3 @@ The script generates a plot comparing **actual vs. predicted** stock prices.
 - [ ] Optimize model hyperparameters.
 - [ ] Deploy as a web app.
 
-## 📜 License
-MIT License
